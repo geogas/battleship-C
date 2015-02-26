@@ -62,7 +62,7 @@ cd battleship
 Cleanup
 -------
 Execute the following command in order to get rid of the executable
-and the object files
+and the object files.
 ```bash
 make clean
 ```
